@@ -1,4 +1,4 @@
-....# Technical Specifications Document
+# Technical Specifications Document
 
 ## Title Page
 
