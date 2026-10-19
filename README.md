@@ -378,7 +378,7 @@ Mobile phone cameras or QR scanners for ticket validation at entry. No other spe
 ## 10. Appendices
 
 ### Appendix A: Linked Deliverables
-- Trello Task Board: `<add link>`
+- Trello Task Board: `[https://trello.com/b/SvNXWoQ7/mcp-side-project](Tello)`
 - ERD (exported image/file): `<add link>`
 - Figma wireframes (mobile and desktop, 5+ pages): `<add link>`
 - Typography guide (Figma and Stitch): `<add link>`
